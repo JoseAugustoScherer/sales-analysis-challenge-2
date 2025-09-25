@@ -1,5 +1,6 @@
 # Programming Task: Sales Data Processing 2
 
+Challenge from Devsuperior course<br>
 Course: [Devsuperior](https://devsuperior.com.br)<br>
 Instagram: [devsuperior.ig](https://www.instagram.com/devsuperior.ig/)
 
