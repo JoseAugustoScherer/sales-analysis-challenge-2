@@ -1,7 +1,7 @@
 # Programming Task: Sales Data Processing 2
 
 Course: [Devsuperior](https://devsuperior.com.br)<br>
-Instagram: [devsuprior.ig](https://www.instagram.com/devsuperior.ig/)
+Instagram: [devsuperior.ig](https://www.instagram.com/devsuperior.ig/)
 
 You must read a .csv file containing a database of sales records and instantiate in memory a list of Sale objects, according to the project design shown alongside (Attention: do not use primitive types int and double for attributes and methods! Use the wrapper types Integer and Double, as shown in the project).
 
